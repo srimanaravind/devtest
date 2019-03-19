@@ -10,12 +10,12 @@ The object of this test is to check your skills with different products that we 
      > Id - INT 11 Unsigned Auto Increment  
      > ProductName - VARCHAR 50  
      > VendorID INT 11 Unsigned
-  8. Create an entity called Vendor. It needs 2 fields and has a FK to VendorID in Software Entity  
+8. Create an entity called Vendor. It needs 2 fields and has a FK to VendorID in Software Entity  
      > Id - INT 11 Unsigned Auto Increment  
      > VendorName - VARCHAR 50  
 9.   Download BackboneJS and install in pub under js directory
 10.  Build a route / contoller and repository methods to perform CRUD on above 2 tables using Backbone Views / Models 
-11.  Commit the working code in a branch called Backbone-Test. Submit it for pull request to Devlopment as well.
-
+11.  Commit the working code in a branch called Backbone-Test. Submit it for pull request to Development branch as well.
+12.  Be prepared for someone to teamviewer on to check your working product.
 
 
