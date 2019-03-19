@@ -10,7 +10,7 @@ The object of this test is to check your skills with different products that we 
      ````Id - INT 11 Unsigned Auto Increment  
             ProductName - VARCHAR 50  
             VendorID INT 11 Unsigned
-            ````  
+  
 8.   Create an entity called Vendor. It needs 2 fields and has a FK to VendorID in Software Entity  
            Id - INT 11 Unsigned Auto Increment  
            VendorName - VARCHAR 50  
