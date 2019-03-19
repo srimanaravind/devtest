@@ -1,8 +1,8 @@
 # Developer Back End Test
 The object of this test is to check your skills with different products that we use.  
 1.   Please clone this repository onto your local machine.  
-2.   Commit this to you own private github account without any modification on the master branch.  
-3.   Create a branch Development and push directly. This is where you work will begin.  
+2.   Commit this to you own private github by changing the origin of the account without any modification on the master branch.  
+3.   Create a branch Development on your private repo and push directly. This is where you work will begin.  
 4.   Install composer and necessary PHP7.2 / MySQL onto your local machine. We don't mind that you use Apache but Nginx is preferable.  
 5.   Install symfony onto your local workstation. Branch again to Symfony-Install. Add an ignore to vendors directory but add everything else and create a pull request to Development Branch with the commit.  
 6.   Branch yet again making sure changes from Symfony-Install are merged.  
