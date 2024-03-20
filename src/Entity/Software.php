@@ -17,7 +17,7 @@ class Software
     private ?string $ProductName = null;
 
     #[ORM\ManyToOne(targetEntity: Vendor::class)]
-    #[ORM\JoinColumn(name: 'VendorID', referencedColumnName: 'id', nullable: false)]
+    #[ORM\JoinColumn(name: 'vendor_id', referencedColumnName: 'id', nullable: false)]
     private Vendor $vendor;
 
     public function getId(): ?int
